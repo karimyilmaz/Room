@@ -21,7 +21,6 @@ the site is fully responsive on 375px (Iphone 6/7/8). You can click the arrows i
 
 *Mobile*
 ![image](https://user-images.githubusercontent.com/20302651/113507997-41499700-9556-11eb-96ef-1d53a56697ad.png)
-Pressed Menu
 ![image](https://user-images.githubusercontent.com/20302651/113508099-cb91fb00-9556-11eb-9f6e-5f1f2bdd2ecc.png)
 
 
