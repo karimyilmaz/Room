@@ -8,7 +8,7 @@
 - [Built with](#built-with)
 
 
-### Overview
+### Ovverview
 
 The project is a home page of a website called room. This challenge has been published on the [Frontend Mentor](https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq) Website as part of other realistic projects challenges. The website runs responsive on different desktop sizes starting from 1600px. regarding mobile
 the site is fully responsive on 375px (Iphone 6/7/8). You can click the arrows in the black box to navigate between different images (appeared on the left), and details
