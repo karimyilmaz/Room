@@ -15,10 +15,10 @@ the site is fully responsive on 375px (Iphone 6/7/8). You can click the arrows i
 
 ### Screenshots
 
-*Desktop*
+#### Desktop
 ![image](https://user-images.githubusercontent.com/20302651/113505366-0724c900-9547-11eb-87cd-e8d06db0d0a8.png)
 
-*Mobile*
+#### Mobile
 ![image](https://user-images.githubusercontent.com/20302651/113507997-41499700-9556-11eb-96ef-1d53a56697ad.png)
 
 ![image](https://user-images.githubusercontent.com/20302651/113508099-cb91fb00-9556-11eb-9f6e-5f1f2bdd2ecc.png)
@@ -26,7 +26,6 @@ the site is fully responsive on 375px (Iphone 6/7/8). You can click the arrows i
 
 ### Built with
 
-- Semantic HTML5 markup
 - [SASS](https://sass-lang.com/)
 - Flexbox
 - CSS Grid
