@@ -4,7 +4,6 @@
 
 - [Overview](#Overview)
 - [Screenshots](#screenshots)
-- [Links](#links)
 - [Built with](#built-with)
 
 
@@ -24,10 +23,6 @@ the site is fully responsive on 375px (Iphone 6/7/8). You can click the arrows i
 
 ![image](https://user-images.githubusercontent.com/20302651/113508099-cb91fb00-9556-11eb-9f6e-5f1f2bdd2ecc.png)
 
-
-### Links
-
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
 
